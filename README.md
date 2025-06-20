@@ -1,4 +1,4 @@
-# Data-Professional-Survey-  
+# Data-Professional-Survey  
 
 
 ---
@@ -26,7 +26,6 @@ The objective of this dashboard, titled "Data Professional Survey Breakdown" is 
 
 ## 📊 Key Insights
 
-Sure! Here are 3–4 concise one-liner key insights:  
 
 1. **Python** is the most preferred programming language among data professionals.  
 2. **Data Scientists and Data Engineers** earn the highest average salaries.  
