@@ -36,11 +36,6 @@ Sure! Here are 3–4 concise one-liner key insights:
 
 ---
 
-## 🖥️ Dashboard Preview
-
-
----
-
 ## 📬 Contact
 
 **Anushree Choudhury**  
